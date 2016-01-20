@@ -54,15 +54,15 @@ DEFAULT_BUNDLES=(
 
 	binary
 
-	test-unit
-	test-integration-cli
-	test-docker-py
+#	test-unit
+#	test-integration-cli
+#	test-docker-py
 
 	dynbinary
 
-	cover
-	cross
-	tgz
+#	cover
+#	cross
+#	tgz
 	ubuntu
 )
 
